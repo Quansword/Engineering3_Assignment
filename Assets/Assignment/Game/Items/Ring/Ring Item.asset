@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1196d11056d78484d96716624452b64e, type: 3}
+  m_Name: Ring Item
+  m_EditorClassIdentifier: 
+  target: {fileID: 0}
+  game: {fileID: 0}
+  cellPrefab: {fileID: 114196118777491440, guid: a22df8b8b61d14c02a31d490767e8a53,
+    type: 2}
+  itemPrefab: {fileID: 114665519515938298, guid: be8fed43ab7e4bd41a588052ee0875fc,
+    type: 2}
+  upgradeCosts: 02000000060000000c000000
+  currentUpgrade: 1
